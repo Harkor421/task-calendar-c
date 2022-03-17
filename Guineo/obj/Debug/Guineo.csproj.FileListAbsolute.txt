@@ -1,0 +1,11 @@
+C:\Users\sekes\source\repos\Guineo\Guineo\bin\Debug\Guineo.exe.config
+C:\Users\sekes\source\repos\Guineo\Guineo\bin\Debug\Guineo.exe
+C:\Users\sekes\source\repos\Guineo\Guineo\bin\Debug\Guineo.pdb
+C:\Users\sekes\source\repos\Guineo\Guineo\obj\Debug\Guineo.csproj.AssemblyReference.cache
+C:\Users\sekes\source\repos\Guineo\Guineo\obj\Debug\Guineo.csproj.SuggestedBindingRedirects.cache
+C:\Users\sekes\source\repos\Guineo\Guineo\obj\Debug\Guineo.Form1.resources
+C:\Users\sekes\source\repos\Guineo\Guineo\obj\Debug\Guineo.Properties.Resources.resources
+C:\Users\sekes\source\repos\Guineo\Guineo\obj\Debug\Guineo.csproj.GenerateResource.cache
+C:\Users\sekes\source\repos\Guineo\Guineo\obj\Debug\Guineo.csproj.CoreCompileInputs.cache
+C:\Users\sekes\source\repos\Guineo\Guineo\obj\Debug\Guineo.exe
+C:\Users\sekes\source\repos\Guineo\Guineo\obj\Debug\Guineo.pdb
